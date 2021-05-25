@@ -1,0 +1,12 @@
+.gradle
+.idea
+/build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+application.properties
+credentials.json
+**.DS_Store
+**Downloads
+**tokens
+**.jar
